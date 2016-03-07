@@ -1,0 +1,5 @@
+1.Egyptian Pound
+2.Euro
+3.Japanese Yen
+4.US Dollar
+5.Kuwaiti Dinar

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1456337392 source:c:\users\fady\desktop\ds\problem8\main.cpp
+	<iostream>
+	<sstream>
+	"readCurrencies.h"
+	"convert.h"
+
+1456332179 c:\users\fady\desktop\ds\problem8\include\readcurrencies.h
+	<string>
+
+1456334232 source:c:\users\fady\desktop\ds\problem8\src\readcurrencies.cpp
+	"readCurrencies.h"
+	<iostream>
+	<fstream>
+
+1456337304 c:\users\fady\desktop\ds\problem8\include\convert.h
+
+1456337414 source:c:\users\fady\desktop\ds\problem8\src\convert.cpp
+	"convert.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+
